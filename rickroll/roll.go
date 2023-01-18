@@ -8,6 +8,7 @@ import (
 
 func RickRoll() {
 	url := "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+	fmt.printLn("Never gonna give u up!")
 
 	switch runtime.GOOS {
 	case "linux":
