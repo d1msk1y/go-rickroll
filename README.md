@@ -2,7 +2,7 @@
 Rick Roll go package
 
 ```sh
-go get -u github.com/d1msk1y/go-rickroll@v1.0.0
+go get -u github.com/d1msk1y/go-rickroll@latest
 ```
 
 To "Rick Roll" call `rickroll.RickRoll()`
